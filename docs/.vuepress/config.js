@@ -20,6 +20,12 @@ module.exports = {
                     {
                         text: "网络请求与远程资源",
                         link: "/js/网络请求与远程资源/"
+                    },   {
+                        text: "动画与canvas图形",
+                        link: "/js/动画与canvas图形/"
+                    }, {
+                        text: "基本引用类型",
+                        link: "/js/基本引用类型/"
                     },
                 ]
             },
