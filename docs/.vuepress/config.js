@@ -29,11 +29,11 @@ module.exports = {
                     },
                 ]
             },
-            {
-                text: "eCharts", items: [
+             {
+                text: "JS高级程序设计", items: [
                     {
-                        text: "01",
-                        link: "/js/echarts/01/"
+                        text: "06.集合引用类型",
+                        link: "/JS高级程序设计/6.集合引用类型/"
                     },
                 ]
             },
