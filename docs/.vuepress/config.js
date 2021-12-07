@@ -29,6 +29,14 @@ module.exports = {
                     },
                 ]
             },
+            {
+                text: "eCharts", items: [
+                    {
+                        text: "01",
+                        link: "/js/echarts/01/"
+                    },
+                ]
+            },
         ],
     }
 }
